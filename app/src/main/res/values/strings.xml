@@ -1,0 +1,82 @@
+<resources>
+    <string name="app_name">Discover Bieszczady</string>
+
+    <string name="title">Discover Bieszczady</string>
+    <string name="start_button">Start</string>
+    <string name="current_name">Połonina Wetlińska</string>
+    <string name="current_localization">Bieszczadki Park Narodowy</string>
+    <string name="current_description">This is the most beautiful place...</string>
+    <string name="nature">Nature</string>
+    <string name="culture">Culture</string>
+    <string name="activity">Activity</string>
+    <string name="food">Food</string>
+    <string name="details">Details</string>
+
+    <!--Nature Fragment -->
+    <string name="pol_wetlinska">Połonina Wetlińska</string>
+    <string name="pol_wet_localization">Bieszczadzki Park Narodowy</string>
+    <string name="pol_wet_description">Połonina Wetlińska is total amazing place to go. You can admire the beautiful views, spanning across both Polish and Ukrainian landscapes.
+        Find mountain hut “Chatka Puchatka”. Chatka Puchatka means Winnie the Pooh’s hut in Polish.</string>
+    <string name="pol_carynska">Połonina Carynska</string>
+    <string name="pol_car_localization">Bieszczadzki Park Narodowy</string>
+    <string name="pol_car_description">"Połonina" in Polish means an accumulation of grasslands above border of the forest. Mountains. Hike on those bare peaks is the biggest attraction!</string>
+    <string name="otryt">Otryt</string>
+    <string name="otryt_localization">Gmina Lutowiska</string>
+    <string name="otryt_description">Otryt is a wild mountain range, at the heart of Bieszczady. </string>
+    <string name="wolosaty">Wołosaty river</string>
+    <string name="wolosaty_localization">Lutowiska commune</string>
+    <string name="wolosaty_description">Wołosaty is a left tributary of the San River. In summer there is possibility to lie on the beach or take some rafting on pontoon.</string>
+
+    <!--Culture Fragment-->
+    <string name="san">Wild San valley</string>
+    <string name="san_localization">Tworylne</string>
+    <string name="san_description">Tworylne was an old lemko village. Now only one hause is lived. </string>
+    <string name="smolnik">Ortodox church</string>
+    <string name="smolnik_localization">Smolnik</string>
+    <string name="smolnik_description">Orthodox church in Smolnik near San – originally Greek-Catholic church of Saint Michael the Archangel, it is the oldest and most beautiful church architecture in Bieszczady.
+        Wooden Orthodox Churches in the Bieszczady Mountains are one of the most characteristic and recognizable symbols of the region. </string>
+    <string name="beniowa">Old lime</string>
+    <string name="beniowa_localization">Beniowa</string>
+    <string name="beniowa_description">Beniowa is an old Lemko village. Only old lime remember how it looks like. </string>
+    <string name="cemete">Old cemetary</string>
+    <string name="cemete_localization">Lipie</string>
+    <string name="cemete_description">Lipie is an old Lemko village. Now only one house is lived. </string>
+
+    <!--Activity Fragment-->
+    <string name="trek">Trekking</string>
+    <string name="trek_localization">All Bieszczady</string>
+    <string name="trek_description">There is some examples of trekking tour.\n Ustrzyki Gorne - Szeroki Wierch - Tarnica - Halicz - Rozsypaniec - Bukowska Pass - Wolosate (about 8 h).
+    Walk along one of the most scenic routes in Bieszczady mountain, on the Ukraine border, up to Tarnica (1346 m) - the highest peak of Bieszczady range mountain.
+    </string>
+    <string name="sky">Park of the night sky</string>
+    <string name="sky_localization">Just above you</string>
+    <string name="sky_description">Dark sky parks are the last places in the urbanised world where you can still see the stars. The sky over the Bieszczady is absolutely one of its kind.</string>
+    <string name="bird">Birds watching</string>
+    <string name="bird_localization">All Bieszczady</string>
+    <string name="bird_description">Do you recognize the bird on the picture? ... Watch the rich birdlife including Ural Owl, rare Woodpeckers and Eagles.</string>
+    <string name="solina">Lake with dam</string>
+    <string name="solina_localization">Solina</string>
+    <string name="solina_description">Solina lake is not natural but very beatiful place... You can visit to the dam and water reservoirs. Also is possible to take the boat trip trough Solina Lake.</string>
+    <string name="print">Foot printing</string>
+    <string name="print_localization">All Bieszczady</string>
+    <string name="print_description">Go tracking Bison, Bears, Wolves and Lynx with a local expert.</string>
+
+    <!--Food Fragment-->
+    <string name="cheese">Sheep cheese</string>
+    <string name="cheese_localization">Mountain hut on Wyzne pass</string>
+    <string name="cheese_description">In season shepherd ...</string>
+    <string name="honey">Honey</string>
+    <string name="honey_localization">Lipie, Czarna</string>
+    <string name="honey_description">In Bieszczady you can find different kinds of honey ...</string>
+    <string name="beer">Regional beer</string>
+    <string name="beer_localization">Ucherce Mineralne</string>
+    <string name="beer_description">Ursa maior is faumos brand from Bieszczady ...</string>
+    <string name="blue">Blueberries</string>
+    <string name="blue_localization">Meadow in the mountains</string>
+    <string name="blue_description">In july you can go for a walk and find ...</string>
+
+    <string name="name_key">name_key</string>
+    <string name="localization_key">localization_key</string>
+    <string name="description_key">description_key</string>
+    <string name="image_key">image_key</string>
+</resources>

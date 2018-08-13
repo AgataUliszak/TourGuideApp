@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Text size -->
+    <dimen name="title_text_size">32sp</dimen>
+    <dimen name="heading_text_size">18sp</dimen>
+    <dimen name="normal_text_size">16sp</dimen>
+    <dimen name="button_text_size">22sp</dimen>
+
+    <!-- Padding -->
+    <dimen name="padding_title">16dp</dimen>
+    <dimen name="padding_small">12dp</dimen>
+    <dimen name="padding_basic">16dp</dimen>
+
+    <!-- Margins -->
+    <dimen name="margin_one">40dp</dimen>
+    <dimen name="margin_basic">16dp</dimen>
+
+    <dimen name="height">180dp</dimen>
+    <dimen name="list_item_height">88dp</dimen>
+    <dimen name="iconSize">50dp</dimen>
+</resources>
