@@ -14,8 +14,10 @@ import android.widget.TextView;
 import java.util.ArrayList;
 
 /**
- * A simple {@link Fragment} subclass.
+ * author of images:
+ * Agata Uliszak
  */
+
 public class NatureFragment extends Fragment {
 
 

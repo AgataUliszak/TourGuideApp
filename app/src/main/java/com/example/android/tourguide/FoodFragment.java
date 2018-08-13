@@ -14,7 +14,8 @@ import android.widget.TextView;
 import java.util.ArrayList;
 
 /**
- * A simple {@link Fragment} subclass.
+ * sources of images:
+ * https://www.pexels.com
  */
 public class FoodFragment extends Fragment {
 

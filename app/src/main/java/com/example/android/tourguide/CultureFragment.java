@@ -13,6 +13,10 @@ import android.widget.ListView;
 
 import java.util.ArrayList;
 
+/**
+ * author of images:
+ * Agata Uliszak
+ */
 
 public class CultureFragment extends Fragment {
     public CultureFragment() {
